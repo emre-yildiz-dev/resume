@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1745758889.70656 "/Users/emre/code/latex/resume/res9b.tex" "res9b.pdf" "res9b" 1745758890.17288 0
-  "/Users/emre/code/latex/resume/res9b.tex" 1745758889.49062 19151 16e88fa706b957e58bfaf76a97fa719e ""
+["pdflatex"] 1745759358.04764 "/Users/emre/code/latex/resume/res9b.tex" "res9b.pdf" "res9b" 1745759358.65803 0
+  "/Users/emre/code/latex/resume/res9b.tex" 1745759357.85207 19215 2ad0d4a49f7cce1e0a9a178f87a0e7ad ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -53,7 +53,7 @@
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "res.cls" 1745756916.5582 25065 00878584ba637ae375b57ce6f6d58323 ""
   "res9b.aux" 1745758176.66104 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "res9b.tex" 1745758889.49062 19151 16e88fa706b957e58bfaf76a97fa719e ""
+  "res9b.tex" 1745759357.85207 19215 2ad0d4a49f7cce1e0a9a178f87a0e7ad ""
   (generated)
   "res9b.aux"
   "res9b.log"

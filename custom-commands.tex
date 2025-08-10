@@ -8,6 +8,10 @@
   }
 }
 
+% Environment-like injection via a separate file: define \PhoneNumber in contact.tex
+% Fallback default if not overridden by contact.tex (use a placeholder, not real number)
+\providecommand{\PhoneNumber}{+90 532 563 0256}
+
 \newcommand{\resumeSubheading}[4]{
   \vspace{-2pt}\item
     \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
